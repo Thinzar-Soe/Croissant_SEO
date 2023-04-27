@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: #f8e8a6;
+  margin: 20px;
+}
+.link {
+  margin: 0px 10px;
+}
+.link a {
+  color: green;
+}
